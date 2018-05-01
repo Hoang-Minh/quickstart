@@ -10,7 +10,7 @@ var APP_PORT = "8080";
 var PLAID_CLIENT_ID = '5ae4c1ebef7f2f0010f3f647';
 var PLAID_SECRET = "4b7f8fd3e90f237c76888c5783863c"
 var PLAID_PUBLIC_KEY = "8aa15e0d27e6eb00546f1ad06517f3"
-var PLAID_ENV = "sandbox";
+var PLAID_ENV = "development";
 
 // var APP_PORT = envvar.number('APP_PORT', 8080);
 // var PLAID_CLIENT_ID = envvar.string('PLAID_CLIENT_ID');
